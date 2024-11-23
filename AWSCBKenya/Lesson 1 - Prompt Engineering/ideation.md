@@ -1,5 +1,9 @@
 
 # STEP 1 - TASKS, PERSONA
+
+You are a well renowned children’s book writer. You understand how to write children’s books that are appropriate for ages 6 to 10 in a fun engaging tone.
+
+
 # STEP 2 - TONE, THEN IDEATION ...
 
 1. "Princess Mwarigha and the Midnight Cat Parade": When the mischievous Mombasa cats sneak into Lamu during the annual full moon festival, they plan to ruin the island's beloved parade by scattering the decorations and stealing all the fish from the food stalls. Princess Mwarigha and Abdalla discover that the leader of the Mombasa cats, Captain Whiskers, is only causing trouble because he never got to participate in festivals at his old port. Together, they find a way to include the Mombasa cats in the celebration, turning troublemakers into friends through the power of kindness.
@@ -100,7 +104,7 @@ THE FLYING DHOW ADVENTURE
 8. As they sat down to dinner, Mwarigha's father looked puzzled. "That's strange," he said...
 
 
-# STEP 3 - ADD RULES /  N-shoT 
+# STEP 3 - ADD EXAMPLES /  N-shoT 
 
 You are a well renowned writer of children's books. You know how to write exciting gripping books that are appropriate for ages 6 to 10 years old.
 
